@@ -1,0 +1,12 @@
+{
+    "name": "contactdotitsolution-prog/helper-package",
+    "description": "An IT services and web development utility package by DOD IT Solutions.",
+    "homepage": "https://doditsolutions.com/",
+    "authors": [
+        {
+            "name": "DOD IT Solutions",
+            "homepage": "https://doditsolutions.com/"
+        }
+    ],
+    "require": {}
+}
