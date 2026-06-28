@@ -1,0 +1,12 @@
+{
+  "name": "@contactdotitsolution-prog/helper-package",
+  "version": "1.0.0",
+  "description": "An IT services and web development utility package by DOD IT Solutions.",
+  "main": "index.js",
+  "author": "DOD IT Solutions (https://doditsolutions.com/)",
+  "homepage": "https://doditsolutions.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contactdotitsolution-prog/helper-package.git"
+  }
+}
